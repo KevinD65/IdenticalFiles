@@ -1,0 +1,4 @@
+Welcome to the file tester
+This is meant to test if files are the same or not
+If they are different, the program will return the number of lines which don't match
+123456789
