@@ -3,4 +3,4 @@ A Java program which takes 2 files as input and compares their contents. If the 
 
 DuongIdenticalFilesClient.java is the client code whileDuongIdenticalFiles.java is the parent class. 
 
-IdenticalFiles1, IdenticalFiles2, and IdenticalFiles3 are files used for testing the code.
+IdenticalFilesTest1, IdenticalFilesTest2, and IdenticalFilesTest3 are files used for testing the code.
